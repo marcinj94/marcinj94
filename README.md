@@ -2,7 +2,7 @@
 
 - 💥 I'm currently working as a Front End Developer
 - 👀 I’m interested in music, home brewing, motorcycles and coding
-- 🌱 I’m currently learning Gatsby.js, GraphQL and more...
+- 🌱 I’m currently learning Next.js, Typescript and more...
 - 📫 My profile: 
 - <a href="https://open.spotify.com/user/~beardofdoom~"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white" /></a>
 
